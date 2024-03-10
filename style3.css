@@ -1,0 +1,24 @@
+.main4{
+   color: white;
+  display: flex;
+  flex-direction: column;
+
+}
+.box2 img{
+    width: 50px;
+}
+.box2{
+    display: flex;
+    gap: 19px;
+    font-size: 29px;
+    justify-content: center;
+    align-items: center;
+}
+.contact-det{
+    display: flex;
+    gap: 34px;
+    flex-wrap: wrap;
+}
+.main4 h1{
+    margin: 67px 277px;
+}
